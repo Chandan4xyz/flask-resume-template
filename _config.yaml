@@ -1,14 +1,14 @@
 # Profile section
 profile:
-  first_name: Rodolfo
-  last_name: Ferro
+  first_name: chandan
+  last_name: singh
   picture: https://cdn.glitch.com/88028f3b-2a37-4207-9b84-e56ad97a9d3d%2Frodo_2021.png?v=1622471953248   # Hosted picture
   # picture: static/img/rodo_2021.png  # Local picture
   contact:
-    address_one: León, Guanajuato
+    address_one: xxx
     address_two:
-    phone: (477) ASK-4-IT!
-  email: rodolfoferroperez@gmail.com
+    phone: xxx
+  email: xxx
   description: |
     I am a Machine Learning Engineer at Zetalabs S.L. (Spain) and I also collaborate as a Digital Sherpa for the national education program "Innovacción Virtual" with Microsoft Mexico.
     
